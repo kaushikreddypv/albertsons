@@ -1,0 +1,41 @@
+[
+{
+"sf": "WWE",
+"lfs": [
+{
+"lf": "women with epilepsy",
+"freq": 21,
+"since": 1998,
+"vars": [
+{
+"lf": "women with epilepsy",
+"freq": 13,
+"since": 1998
+},
+{
+"lf": "Women with epilepsy",
+"freq": 8,
+"since": 2001
+}
+]
+},
+{
+"lf": "whole worm extract",
+"freq": 3,
+"since": 1986,
+"vars": [
+{
+"lf": "whole worm extract",
+"freq": 2,
+"since": 1986
+},
+{
+"lf": "Whole worm extract",
+"freq": 1,
+"since": 1996
+}
+]
+}
+]
+}
+]
